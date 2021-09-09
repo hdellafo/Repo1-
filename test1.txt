@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D032-E30E
+
+ Directory of C:\Users\hdellafosse\Desktop\MyProject
+
+09/08/2021  06:34 PM    <DIR>          .
+09/08/2021  06:34 PM    <DIR>          ..
+09/08/2021  06:34 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,435,810,304 bytes free
